@@ -1,7 +1,7 @@
 package jx;
 
 public class NewHelloWorld{
-  public void main(String args[]){
+  public static void main(String args[]){
     System.out.println("Hello World");
     System.out.println("This is Jingxian Huang's Codes");
     System.out.println("My name is Connie.");
