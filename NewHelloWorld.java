@@ -6,5 +6,6 @@ public class NewHelloWorld{
     System.out.println("This is Jingxian Huang's Codes");
     System.out.println("My name is Connie.");
     System.out.println("Ni hao wo de mingzi shi ji en ni laizi zhongguo?");
+    System.out.println("My name is Daniel.");
   }
 }
